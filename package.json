@@ -6,6 +6,7 @@
   "author": "sezzh",
   "license": "MIT",
   "dependencies": {
+    "faker": "^4.1.0",
     "json-server": "^0.12.0"
   }
 }
