@@ -1,0 +1,11 @@
+{
+  "name": "fake-server",
+  "version": "0.1.0",
+  "description": "just a simple json-server example",
+  "main": "index.js",
+  "author": "sezzh",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}
